@@ -1,0 +1,6 @@
+{
+  "name": "Shield-X Sandbox",
+  "description": "An isolated URL scanning environment that analyzes links for malicious content using Gemini AI and sandboxed previews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
